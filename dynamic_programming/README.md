@@ -5,3 +5,4 @@
 
    - [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change/problem)
    - [The Modified Fibonacci Problem](https://www.hackerrank.com/challenges/fibonacci-modified/problem)
+   - [The Abbreviation Problem](https://www.hackerrank.com/challenges/abbr/problem)
