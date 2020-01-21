@@ -69,7 +69,10 @@ class SingleLinkedList:
 	def is_looped(self):
 		pass
 
-	
+	def reach_middle_single_pass(self):
+		pass
+
+
 def find_intersection(l1, l2):
 	pass
 
